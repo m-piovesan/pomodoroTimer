@@ -117,4 +117,4 @@ export const StartCountdownButton = styled.button`
     &:not(disabled):hover {
         background: ${props => props.theme['green-700']};
     }
-`
+` 
